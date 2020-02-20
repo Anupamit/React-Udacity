@@ -1,0 +1,23 @@
+{
+  "name": "react-udacity",
+  "version": "1.0.0",
+  "description": "jsx",
+  "main": "creteelement.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anupamit/React-Udacity.git"
+  },
+  "author": "anupam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anupamit/React-Udacity/issues"
+  },
+  "homepage": "https://github.com/Anupamit/React-Udacity#readme",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
